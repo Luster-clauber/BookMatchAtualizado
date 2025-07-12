@@ -1,30 +1,34 @@
 # Bookmatch clone
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Link de acesso ao site https://luster-clauber.github.io/BookMatchAtualizado/
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/lusterclauber-7117s-projects/v0-bookmatch-clone)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/SshBqDHMYPh)
+📚 BookMatch — Encontre sua próxima leitura
+Este projeto foi desenvolvido como parte da disciplina Construção de Páginas Web II com o objetivo de ajudar pessoas a descobrirem livros para ler com base em filtros personalizados, como gênero, classificação indicativa, nota e muito mais.
 
-## Overview
+Muitas vezes, escolher a próxima leitura pode ser um desafio. O BookMatch busca tornar essa experiência mais leve, intuitiva e divertida, conectando leitores com livros que combinam com seu momento e preferências.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+✨ Funcionalidades interessantes
+Filtros por categoria (gênero literário, faixa etária etc.)
+Sugestões baseadas em avaliações
+Sistema de “sorteador” para descoberta pesquisada
+Consumo de uma API pública de livros
+Interface web amigável e acessível
+🚧 Status do projeto
+Em desenvolvimento. Em breve serão definidos:
 
-## Deployment
+Uma API que será utilizada
+Estrutura da interface e fluxo do usuário
+Lógica de recomendação e filtros aplicáveis
+🛠️ Tecnologias previstas
+HTML + CSS
+JavaScript
+Consumo de API externa (REST)
+🎓 Projeto acadêmico
+Este projeto faz parte das atividades avaliativas da disciplina Construção de Páginas Web II , no curso de Sistemas para Internet.
 
-Your project is live at:
+💡 Possíveis evoluções
+Autenticação de usuário
+Histórico de livros visitados
+Sistema de favoritos
+Recomendação baseada em preferências salvas
 
-**[https://vercel.com/lusterclauber-7117s-projects/v0-bookmatch-clone](https://vercel.com/lusterclauber-7117s-projects/v0-bookmatch-clone)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/SshBqDHMYPh](https://v0.dev/chat/projects/SshBqDHMYPh)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
